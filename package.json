@@ -1,0 +1,22 @@
+{
+  "name": "loremdimsum",
+  "version": "1.0.0",
+  "description": "Lorem Ipsum generator using dimsum-related words.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "morgan": "^1.7.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Sia",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugenesia/lorem-dim-sum"
+  }
+}
